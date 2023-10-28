@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Anna",
+      "status": "mather"
+    },
+    {
+      "id": 2,
+      "userName": "Andrew",
+      "status": "father"
+    },
+    {
+      "id": 3,
+      "userName": "Alice",
+      "status": "daughter"
+    },
+    {
+      "id": 4,
+      "userName": "Mark",
+      "status": "son"
+    }
+  ],
+  "toDoLists": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "id": 1,
+          "title": "Visit new shop",
+          "description": "Buy new dress and have a meet with Alice",
+          "type": "vacation",
+          "status": "process"
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "id": 1,
+          "title": "Visit new shop",
+          "description": "Buy new dress and have a meet with Alice",
+          "type": "vacation",
+          "status": "process"
+        },
+        {
+          "id": 2,
+          "title": "English lesson",
+          "description": "PS+PP gramma",
+          "type": "study/work",
+          "status": "process"
+        },
+        {
+          "id": 168269380528,
+          "title": "Do sport",
+          "description": "12.30 Gym full body",
+          "type": "hobby",
+          "status": "process"
+        },
+        {
+          "id": 168269669999,
+          "title": "Shopping",
+          "description": "Buy products for week ",
+          "type": "housework",
+          "status": "process"
+        },
+        {
+          "id": 1999999,
+          "title": "Visit new shop",
+          "description": "Buy new dress and have a meet with Alice",
+          "type": "vacation",
+          "status": "process"
+        },
+        {
+          "id": 299999999,
+          "title": "English lesson",
+          "description": "PS+PP gramma",
+          "type": "study/work",
+          "status": "process"
+        },
+        {
+          "id": 1682693809528,
+          "title": "Do sport",
+          "description": "12.30 Gym full body",
+          "type": "hobby",
+          "status": "process"
+        },
+        {
+          "id": 16829994299,
+          "title": "Shopping",
+          "description": "Buy products for week ",
+          "type": "housework",
+          "status": "done"
+        },
+        {
+          "id": 1683159173745,
+          "title": "Some",
+          "description": "New",
+          "type": "vacation",
+          "status": "process"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "id": 1,
+          "title": "Visit new shop",
+          "description": "Buy new dress and have a meet with Alice",
+          "type": "vacation",
+          "status": "process"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "id": 1,
+          "title": "English lesson",
+          "description": "PS+PP gramma",
+          "type": "study/work",
+          "status": "process"
+        }
+      ]
+    }
+  ],
+  "attached": [
+    {
+      "id": 1,
+      "idTask": 1
+    }
+  ]
+}
